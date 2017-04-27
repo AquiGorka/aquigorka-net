@@ -1,1 +1,1 @@
-# aquigorka-net-blog
+# AquiGorka.net / Blog
