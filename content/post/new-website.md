@@ -1,7 +1,7 @@
 +++
 date = "2017-04-29T19:09:08+02:00"
 title = "New website & new project"
-thumbnail = "images/new-planet.jpg"
+thumbnail = "/images/new-planet.jpg"
 +++
 
 <b>The new website:</b>
