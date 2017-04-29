@@ -1,16 +1,18 @@
 +++
 date = "2017-04-29T19:09:08+02:00"
 title = "New website & new project"
+thumbnail = "images/new-planet.jpg"
 +++
 
-The new website:
+<b>The new website:</b>
 
 - static site generator: hugo
 - github pages
 
 The main idea behind this new approach is to cut down unnecesary expenses (last host wasn't that expensive but definitely unnecesary), to try out new technologies (I'm learning go and hugo is written in go, even though so far this is all automated) and to keep working on this amazing project.
 
-To sum up what has been done so far:
+<br />
+<b>To sum up what has been done so far:</b>
 
 - developed a new human-software interface (got my engineering degree with it)
  - my PoC for the new interface showcases a 3D virtual puppet remote controlled by a smartphone (with real time data from the gyrscope)
@@ -24,7 +26,9 @@ To sum up what has been done so far:
  - learning docker and maybe vagrant for the components
 - new technologies to look at: a-frame, cannonjs, docker & vagrant, mosaic9 (awesome project in itself too) for frontend micro-services
 
+<br />
 So there you go.
 
 Cheers,
+<br />
 Gorka

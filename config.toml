@@ -1,3 +1,17 @@
 baseURL = "http://aquigorka.net"
 languageCode = "en-us"
-title = "AquiGorke.net :: Expect Awesomeness"
+title = "AquiGorka.net · Expect Awesomeness"
+thene = "hugo_theme_robust"
+
+googleAnalytics = "UA-63897000-9"
+
+[params]
+  dateformat = "Jan 2, 2006" # Optional
+  # Fonts settings.
+  googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+  fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+  logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+
+[outputs]
+  page = [ "HTML", "AMP" ] # if you want AMP enable.
+
