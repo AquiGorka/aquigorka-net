@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://aquigorka.net/post/what-can-go-wrong/</loc>
+    <lastmod>2017-05-14T00:12:01+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://aquigorka.net/post/new-website/</loc>
     <lastmod>2017-04-29T19:09:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://aquigorka.net/</loc>
-    <lastmod>2017-04-29T19:09:08+02:00</lastmod>
+    <lastmod>2017-05-14T00:12:01+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,7 +25,7 @@
   
   <url>
     <loc>http://aquigorka.net/post/</loc>
-    <lastmod>2017-04-29T19:09:08+02:00</lastmod>
+    <lastmod>2017-05-14T00:12:01+02:00</lastmod>
     <priority>0</priority>
   </url>
   
