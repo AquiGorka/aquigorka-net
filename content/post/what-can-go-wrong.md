@@ -25,5 +25,4 @@ A hawaiian sliper-wearing-hipster showing off his vi-skills made his point or ma
 
 And don't forget to tell me about it, I'd love to hear your stories.
 
-Cheers,
-Gorka
+Cheers,<br />Gorka
