@@ -149,7 +149,7 @@ ga('send', 'pageview');
 <p>You create a system, you add features to a system, you realize you broke some stuff the system was doing correctly, you go and fix it and then you publish the new features.</p>
 </blockquote>
 
-<p>Then came the layers of tests: <em>unit, integration/functional, smoke, regression, acceptance, system &amp; pre flight</em>. Personally, I have a little bit of experience with some of the layers and will describe here the way I interpret the ones I use and how they help out.</p>
+<p>Then came the layers of tests: <em>unit, integration/functional, behavior, smoke, regression, acceptance, system &amp; pre flight</em>. Personally, I have a little bit of experience with some of the layers and will describe here the way I interpret the ones I use and how they help out.</p>
 
 <p>Lets use as an example a website that consumes and api for items.</p>
 
@@ -166,6 +166,10 @@ ga('send', 'pageview');
 <p>At the next level of interaction to a system, users come into play. This is where tests have to maintain the system specifications - at the user level. In our example this level comes to us at a browser: let&rsquo;s say the user visists a certain page and the list of items gets rendered after a request to the api endpoint. This tests will ensure that the system will deal properly with all the possible outcomes of such flow (from a fully working flow where the request is a success and the items are rendered in a specific fashion in the webpage, to scenarios where the request fails with different error codes).</p>
 
 <p>This type of tests require help from other systems that simulate/control browsers in an automated fashion. There are some options out there and I have been working with browserstack and selenium + chrome and firefox drivers.</p>
+
+<h2 id="behavior-tests">Behavior tests</h2>
+
+<p>In our example we now we have a fully working page that reacts accordingly to the different possible scenarios, now we need to set up tests for a user that navigates through our website and the different pages. The website with items example might fall in short here, even though, let&rsquo;s imagine a user navigates from the page where all the items are rendered to a page where only information from a particular item is displayed. This is a flow that our behavior tests would ensure works properly everytime (with the possible error outcomes too). These tests define flow steps in order and then automate and simulate those steps, concluding that the defined functionality can be achieved in the manner the tests execute it.</p>
 
 <p>There you go. It is my intention to keep learning and keep understanding the differences in every layer (and possible layers to come) and how to apply and benefit from them - and when I do, I will share such knowledge.</p>
 
