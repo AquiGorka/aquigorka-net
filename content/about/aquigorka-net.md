@@ -27,5 +27,8 @@ Social games and the social layer for games. It is a more engaging experience to
 
 I have always believed games are a portal to another world. These use tools to let the participants inmerse themselves in a different reality. With the help of all the people involved in the production of games the players will experience the world the authors want to share.
 
-Expect Awesomeness<br />
-Gorka
+I imagine social gatherings amongst friends where people can play beer pong without the need for a ping-pong table; card and dice games where there is no need for actual dice nor cards; where yielding a sword and shield is just a matter or raising one's smartphone and smartwatch; and where anyone can join in simply by synching in with their personal devices.
+
+I promise to develop games that will provide users with new amazing experiences.
+
+*Expect Awesomeness*

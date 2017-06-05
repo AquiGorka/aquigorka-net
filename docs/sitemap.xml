@@ -13,8 +13,34 @@
   </url>
   
   <url>
+    <loc>http://aquigorka.net/about/looking-for-cofounder-and-investors/</loc>
+    <lastmod>2017-05-03T21:09:37+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://aquigorka.net/post/new-website/</loc>
     <lastmod>2017-04-29T19:09:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aquigorka.net/project/kickoff/</loc>
+    <lastmod>2017-01-01T21:06:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aquigorka.net/project/puppets-life/</loc>
+    <lastmod>2016-12-07T20:48:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aquigorka.net/about/aquigorka-net/</loc>
+    <lastmod>2016-10-22T21:06:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aquigorka.net/about/</loc>
+    <lastmod>2017-05-03T21:09:37+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -31,6 +57,12 @@
   <url>
     <loc>http://aquigorka.net/post/</loc>
     <lastmod>2017-05-28T11:39:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aquigorka.net/project/</loc>
+    <lastmod>2017-01-01T21:06:01+02:00</lastmod>
     <priority>0</priority>
   </url>
   
