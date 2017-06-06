@@ -4,7 +4,7 @@ title = "About Aquigorka.net"
 thumbnail = "/images/aquigorka-net-logo.jpg"
 +++
 
-## Multiplayer real-time HTML5 games
+*Multiplayer real-time HTML5 games*
 
 > Games
 
