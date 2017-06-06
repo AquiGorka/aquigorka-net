@@ -32,3 +32,13 @@ I imagine social gatherings amongst friends where people can play beer pong with
 I promise to develop games that will provide users with new amazing experiences.
 
 *Expect Awesomeness*
+
+
+<br />
+### Contact Info
+
+Email: Gorka @ AquiGorka . net
+
+Github: https://github.com/AquiGorka
+
+Linkedin: https://linkedin.com/in/gorka-ludlow
