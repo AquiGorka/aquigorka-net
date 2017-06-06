@@ -6,7 +6,7 @@ thumbnail = "/images/santa.puppets.life.png"
 
 >"But please remember: this is only a work of fiction. The truth, as always, will be far stranger."<br />Arthur C. Clarke
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u5ARH07qRWQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/u5ARH07qRWQ" frameborder="0" allowfullscreen></iframe>
 
 I built a 3D virtual web puppet that reacts to a physics engine. I did this with web technologies because I wanted it to work in the browser. Then I took it one step further and developed a bridge between the puppet and a smartphone's gyroscope data (the puppet reacts accordingly).
 
