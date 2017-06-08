@@ -5,6 +5,7 @@ title = "AquiGorka.net › multiplayer real-time HTML5 games"
 theme = "hugo_theme_robust"
 
 googleAnalytics = "UA-63897000-9"
+disqusShortname = "aquigorka-net"
 
 [params]
   dateformat = "Jan 2, 2006" # Optional
