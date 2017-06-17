@@ -11,13 +11,15 @@ title = "eSports"
 
 *Who would want to watch other people play videogames?*
 
-Apparently *71.5 million people worldwide*, and that number dates back to 2013 - it may come as a surprise to some, but the fact it is a major thing barely starting but already on the rise.
+Apparently *71.5 million people worldwide*, and that number dates back to 2013. 
+
+It may come as a surprise to some, but the fact it is a major thing barely starting but already on the rise.
 
 <img src="/images/esports/stadium.jpg" style="width: 100%;" alt="eSports Stadium" />
 
-As in any other major sport competitions, professional take part in real time video game events. The type of video games range from fighter to sports dynamics and even arcade games.
+As in any other major sport competitions, professional players take part in real time video game events. The type of video games range from fighter to sports dynamics and even arcade games.
 
-It has had such impact that nowadays comapnies like Twitch.tv stream this events constantly and it has spread from Asia to Europe and North America.
+It has had such impact that nowadays companies like Twitch.tv stream this events constantly and deliver the content from Asia to Europe and North America.
 
 <img src="/images/esports/gamer.jpg" style="width: 100%;" alt="eSports Gamer" />
 
@@ -28,7 +30,7 @@ It has had such impact that nowadays comapnies like Twitch.tv stream this events
 
 *Spectators taking part*
 
-As an added value to people watching there can be real time dynamics - similar to those of 2nd screen for other type of live events - that enhance the watcher's experience and thus making it more appealing to attend the competitions.
+As an added value to people watching there, can be real time dynamics - similar to those of 2nd screen for other type of live events - that enhance the watcher's experience and thus make it more appealing to attend the competitions.
 
 <img src="/images/esports/numbers.jpg" style="width: 100%;" alt="eSports Numbers" />
 
