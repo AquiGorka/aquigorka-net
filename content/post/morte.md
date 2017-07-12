@@ -2,7 +2,7 @@
 categories = []
 date = "2016-01-12T20:47:14+02:00"
 tags = []
-thumbnail = "/images/2016/01/morte.jgp"
+thumbnail = "/images/2016/01/morte.jpg"
 title = "MORTE"
 
 +++
