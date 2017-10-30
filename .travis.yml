@@ -14,7 +14,7 @@ branches:
 
 env:
   global:
-    - SOURCE_DIR="public"
+    - SOURCE_DIR="docs"
     - BUILD_BRANCH="source"
     - DEPLOY_BRANCH="master"
 
