@@ -22,7 +22,11 @@ install:
   - go get -u -v github.com/spf13/hugo
 
 script:
-  - hugo
+  - mkdir themes
+  - cd themes
+  - git clone https://github.com/dim0627/hugo_theme_robust
+  - cd ..
+  - hugo --theme=hugo_theme_robust
 
 deploy:
   - provider: pages
