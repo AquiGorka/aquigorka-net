@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseURL = "http://aquigorka.net/"
+baseURL = "https://aquigorka.net/"
 languageCode = "en-us"
 title = "AquiGorka.net › multiplayer real-time HTML5 games"
 theme = "hugo_theme_robust"

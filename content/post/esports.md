@@ -47,7 +47,7 @@ The global eSports market generated:
 
 A virtual reality, multiplayer, real-time, turn-based, soccer game, designed from the start with an esports layer and 2nd screen interactions for the viewers.
 
-http://aquigorka.net/project/kickoff/
+https://aquigorka.net/project/kickoff/
 
 <br />
 
