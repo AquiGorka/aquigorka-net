@@ -1,5 +1,8 @@
 # AquiGorka.net
 
+![AquiGorka.net](/static/images/aquigorka.net.png)
+
+
 ## Dev
 
 Install theme:
